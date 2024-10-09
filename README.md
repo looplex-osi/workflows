@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/looplex-osi/server/blob/master/logomark.png?raw=true" alt="@looplex/workflows logomark" width="512" />
+  <img src="https://github.com/looplex-osi/workflows/blob/master/logomark.png?raw=true" alt="@looplex/workflows logomark" width="512" />
 </p>
 
 [![Parcel](https://img.shields.io/badge/built_by-parcel-8DD6F9.svg?style=for-the-badge&logo=webpack)](https://parceljs.org/getting-started/library/)
